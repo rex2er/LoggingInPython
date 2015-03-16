@@ -2,8 +2,6 @@
 
 # log.py
 # Logging Module
-#
-# Copyright © 2014 Rex Kim, All Rights Reserved.
 
 def debug_log(type, printable, backtrace=True):
    _DEBUG_ = True
